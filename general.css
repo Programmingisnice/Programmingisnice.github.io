@@ -1,8 +1,8 @@
-div 1 {
+p {
     height: 20px;
     width: 30px;
     display: flex;
     align-items: center
-    background-color: blue;
+    color: blue;
 
 }
