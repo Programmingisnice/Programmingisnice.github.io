@@ -1,7 +1,8 @@
-.elobenc {
-    height: 999900px;
-    width: 200px;
+.box {
+    height: 20px;
+    width: 30px;
     display: flex;
     align-items: center
+    background-color: blue;
 
 }
