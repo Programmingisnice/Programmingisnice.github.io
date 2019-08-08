@@ -1,16 +1,17 @@
-
-body{
-    background-color: black;
-
+html {
+background-color: lightgray;
 }
 
-.box {
-    background-color: blue;
-    width: 90%;
-    height: 140px;
-    left: 30px;
+#ogolny {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
-.h1 {
+#logo {
     color: red;
+   font-size: 40px; 
+}
+#logo2 {
+    color: lightskyblue;
+    font-size: 40px;
 }
