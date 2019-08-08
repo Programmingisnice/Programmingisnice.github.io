@@ -10,10 +10,10 @@ background-color: lightgray;
 #logo {
     color: red;
    font-size: 40px; 
-   float: left;
+   text-align: center;
 }
 #logo2 {
     color: lightskyblue;
     font-size: 40px;
-    float: left;
+    text-align: center;
 }
